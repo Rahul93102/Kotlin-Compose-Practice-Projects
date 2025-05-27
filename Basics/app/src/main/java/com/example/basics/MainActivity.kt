@@ -19,7 +19,10 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             BasicsTheme {
-                parentCompoent()
+//                parentCompoent()
+//                SideEffect()
+//                Counter()
+                second_remmeber()
             }
         }
     }
