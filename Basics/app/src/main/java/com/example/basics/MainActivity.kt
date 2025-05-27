@@ -22,8 +22,15 @@ class MainActivity : ComponentActivity() {
 //                parentCompoent()
 //                SideEffect()
 //                Counter()
-                second_remmeber()
+//                second_remmeber()
+//                MediaComposable()
+//                subkeyboard()
+//                produceState()
+//                Loader()
+                Derived_State()
+
             }
+
         }
     }
 }
